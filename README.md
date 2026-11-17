@@ -5,3 +5,4 @@ Tổng hợp bài tập và mindmap của Session 7. Mỗi bài là một thư m
 ## Danh sách bài
 
 - [`so-sanh-hoc-phi/`](so-sanh-hoc-phi/) — Sửa lỗi Module "So sánh Học phí"
+- [`bao-cao-bien-mat/`](bao-cao-bien-mat/) — Báo cáo "Biến mất" của phòng Đào tạo
