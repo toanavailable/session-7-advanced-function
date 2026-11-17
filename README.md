@@ -8,3 +8,4 @@ Tổng hợp bài tập và mindmap của Session 7. Mỗi bài là một thư m
 - [`bao-cao-bien-mat/`](bao-cao-bien-mat/) — Báo cáo "Biến mất" của phòng Đào tạo
 - [`danh-thuc-hoc-vien-ngu-dong/`](danh-thuc-hoc-vien-ngu-dong/) — Chiến dịch "Đánh thức Học viên Ngủ đông"
 - [`tham-hoa-black-friday/`](tham-hoa-black-friday/) — Thảm họa "Black Friday"
+- [`do-lech-hoc-phi/`](do-lech-hoc-phi/) — Báo cáo "Độ Lệch Học Phí"
