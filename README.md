@@ -10,3 +10,4 @@ Tổng hợp bài tập và mindmap của Session 7. Mỗi bài là một thư m
 - [`tham-hoa-black-friday/`](tham-hoa-black-friday/) — Thảm họa "Black Friday"
 - [`do-lech-hoc-phi/`](do-lech-hoc-phi/) — Báo cáo "Độ Lệch Học Phí"
 - [`sua-loi-toi-uu-subquery/`](sua-loi-toi-uu-subquery/) — Khắc phục lỗi và Tối ưu hóa Truy vấn lồng (Subquery)
+- [`truy-van-long-nhieu-cap/`](truy-van-long-nhieu-cap/) — Xây dựng và Tối ưu hóa Truy vấn lồng nhiều cấp
