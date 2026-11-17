@@ -12,3 +12,4 @@ Tổng hợp bài tập và mindmap của Session 7. Mỗi bài là một thư m
 - [`sua-loi-toi-uu-subquery/`](sua-loi-toi-uu-subquery/) — Khắc phục lỗi và Tối ưu hóa Truy vấn lồng (Subquery)
 - [`truy-van-long-nhieu-cap/`](truy-van-long-nhieu-cap/) — Xây dựng và Tối ưu hóa Truy vấn lồng nhiều cấp
 - [`subquery-ham-tong-hop/`](subquery-ham-tong-hop/) — Kết hợp Truy vấn lồng (Subquery) và Hàm tổng hợp
+- [`phan-loai-subquery/`](phan-loai-subquery/) — Phân loại và Xây dựng các dạng Truy vấn lồng (Subquery)
